@@ -1,21 +1,78 @@
-<h1 align="center">Hi 👋, I'm Amey Thore</h1>
-<h3 align="center">👋 Hey there! I'm Amey Thore, an avid enthusiast in the realms of Artificial Intelligence and Machine Learning. With a passion for innovation, I love crafting awesome AI tools - in fact, I've already built a few, and I'm currently immersed in developing another one. When I'm not delving into the depths of AI, you'll find me channeling my creativity into web development. I recently launched "HealNet," a website aimed at making a positive impact, using HTML, CSS, and PHP. Beyond my personal projects, I thrive on contributing to open-source initiatives, where I can collaborate and learn from the community. Let's code and create together! 💻✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameythore&label=Profile%20views&color=0e75b6&style=flat" alt="ameythore" /> </p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AmeyThore.AmeyThore" />
 
-- 🌱 I’m continuously learning **AI,ML and new APIs**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amey+Thore!;" />
+</h1>
 
-- 📫 How to reach me **ameythore5@gmail.com**
+<h3 align="center">A passionate software developer from INDIA</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ameythore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameythore" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ameythore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameythore" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+ 
+ 🔭 I’m currently working on **AI tools**
+ 
+ 🌱 I’m currently learning **LLMs, ML, DSA**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameythore&show_icons=true&locale=en&layout=compact" alt="ameythore" /></p>
+💬 Ask me about **AI, ML, LLMs... or anything [here](https://github.com/AmeyThore/AmeyThore/issues)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameythore&" alt="ameythore" /></p>
+⚡ Fun fact **Batman also Code**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ameythore5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ameythore08/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!-- <a href="https://AmeyThore.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> sqlite, safari, google-chrome are other good icon options
+  </a> -->
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,py,bootstrap,php,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=c,mysql,sklearn,docker,eclipse,ubuntu,linux" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmeyThore/AmeyThore/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <!--<img width=390 src="https://github-readme-stats.vercel.app/?user=AmeyThore&count_private=true&theme=react&border_radius=10" alt="streak stats"/>-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmeyThore&theme=react&border_radius=10&card_width=390&card_height=160" alt="GitHub Streak" /></a>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AmeyThore&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeyThore&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=shoot+me+a+message+on+LinkedIn!+👋;" />
+</h1>
+
+<br/>
